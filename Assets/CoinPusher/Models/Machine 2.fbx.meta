@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 0db8348b22d4947caafb4f02385954c9
+timeCreated: 1449548099
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BackCastle
+    100002: Bucket
+    100004: BumperLeft
+    100006: BumperRIght
+    100008: CoinCatcher
+    100010: Floor
+    100012: //RootNode
+    100014: PushBar
+    100016: SideCastleLeft
+    100018: SideCastleRight
+    100020: WallBack
+    100022: WallLeft
+    100024: WallRight
+    400000: BackCastle
+    400002: Bucket
+    400004: BumperLeft
+    400006: BumperRIght
+    400008: CoinCatcher
+    400010: Floor
+    400012: //RootNode
+    400014: PushBar
+    400016: SideCastleLeft
+    400018: SideCastleRight
+    400020: WallBack
+    400022: WallLeft
+    400024: WallRight
+    2300000: BackCastle
+    2300002: Bucket
+    2300004: BumperLeft
+    2300006: BumperRIght
+    2300008: CoinCatcher
+    2300010: Floor
+    2300012: PushBar
+    2300014: SideCastleLeft
+    2300016: SideCastleRight
+    2300018: WallBack
+    2300020: WallLeft
+    2300022: WallRight
+    3300000: BackCastle
+    3300002: Bucket
+    3300004: BumperLeft
+    3300006: BumperRIght
+    3300008: CoinCatcher
+    3300010: Floor
+    3300012: PushBar
+    3300014: SideCastleLeft
+    3300016: SideCastleRight
+    3300018: WallBack
+    3300020: WallLeft
+    3300022: WallRight
+    4300000: BumperRIght
+    4300002: BackCastle
+    4300004: SideCastleLeft
+    4300006: SideCastleRight
+    4300008: BumperLeft
+    4300010: CoinCatcher
+    4300012: Bucket
+    4300014: WallBack
+    4300016: WallRight
+    4300018: WallLeft
+    4300020: Floor
+    4300022: PushBar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
